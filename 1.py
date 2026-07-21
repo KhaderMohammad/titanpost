@@ -4,3 +4,6 @@ eart
 google
 meta
 apple
+PRIMED
+BARADOS
+EDMONTON
