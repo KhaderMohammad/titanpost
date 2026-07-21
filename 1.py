@@ -1,6 +1,6 @@
 galxy
 universe
 eart
-mars
-jupiter
-
+google
+meta
+apple
